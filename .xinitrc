@@ -1,5 +1,5 @@
 #!/bin/sh
 
-[[ -f ~/.Xresources ]] && xrdb -merge ~/.Xresources
+[[ -f ~/.xresources ]] && xrdb -merge ~/.xresources
 
 exec awesome
