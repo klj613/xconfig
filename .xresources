@@ -1,5 +1,5 @@
-URxvt*.transparent:	            true
-URxvt*.shading:	                50
+URxvt*.depth:	                32
+URxvt*.background:	            rgba:0000/0000/0700/c800
 URxvt*.scrollBar:	            false
 URxvt*.colorUL:	                #4682B4
 URxvt*.perl-ext:	            default,url-select
@@ -9,7 +9,6 @@ URxvt*.url-select.launcher:	    /usr/bin/firefox -new-tab
 URxvt*.url-select.underline:	true
 
 URxvt*.foreground:	            #DDDDDD
-URxvt*.background:	            #121212
 
 URxvt*.color0:	                #353535
 URxvt*.color1:	                #AE4747
